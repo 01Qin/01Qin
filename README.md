@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :star2:  About Me:
 I'm currently in the first year and studying IT.<br>
 
 
