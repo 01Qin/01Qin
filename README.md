@@ -12,7 +12,7 @@
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=01Qin&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=01Qin&theme=buefy&hide_border=true)<br/>
 
 ---
 
