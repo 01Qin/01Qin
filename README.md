@@ -8,7 +8,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 
-![](https://github-contributor-stats.vercel.app/api?username=01Qin&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=01Qin&limit=5&theme=buefy&combine_all_yearly_contributions=true)
 
 
 ---
