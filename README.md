@@ -34,4 +34,4 @@
 ---
 
 
-![](https://github-profile-trophy.vercel.app/?username=01Qin&theme=pink&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=01Qin&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
