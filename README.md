@@ -41,11 +41,7 @@
         <div class="challengePic">
           <a rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge"><img alt="2025 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images.gr-assets.com/challenges/1733511050p2/11627.jpg" /></a>
         </div>
-      <div>
-        <a rel="nofollow" href="https://www.goodreads.com/user/show/170348560-quinn">Quinn</a> has
-
-  </div>
-	<script src="https://www.goodreads.com/user_challenges/widget/170348560-quinn?challenge_id=11627&v=2"></script>
+      
 </div>
 
 
