@@ -44,17 +44,6 @@
       <div>
         <a rel="nofollow" href="https://www.goodreads.com/user/show/170348560-quinn">Quinn</a> has
 
-        read 0 books toward their goal of 24 books.
-      </div>
-      <div style="width: 100px; margin: 4px 5px 5px 0; float: left; border: 1px solid #382110; height: 8px; overflow: hidden; background-color: #FFF">
-        <div style="width: 0%; background-color: #D7D2C4; float: left"><span style="visibility:hidden">hide</span></div>
-      </div>
-      <div style="font-family: arial, verdana, helvetica, sans-serif;font-size:90%">
-        <a rel="nofollow" href="https://www.goodreads.com/user_challenges/57889781">0 of 24 (0%)</a>
-      </div>
-      <div style="text-align: right;">
-        <a style="text-decoration: none; font-size: 10px;" rel="nofollow" href="https://www.goodreads.com/user_challenges/57889781">view books</a>
-      </div>
   </div>
 	<script src="https://www.goodreads.com/user_challenges/widget/170348560-quinn?challenge_id=11627&v=2"></script>
 </div>
