@@ -39,7 +39,7 @@ Join me for more reading. 📖📚
       <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge">2025 Reading Challenge</a>
     </h3>
         <div class="challengePic">
-          <a rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge"><img alt="2025 Reading Challenge" style="float:left; margin-right: 10px; border: 0 none" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334.jpg" /></a>
+          <a rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge"><img alt="2025 Reading Challenge" style="float:left; margin-right: 1px; border: 0 none" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334.jpg" /></a>
         </div>
       
 </div>
