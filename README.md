@@ -28,7 +28,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=01Qin&icon=0&color=10)](https://visitcount.itsvg.in)
+Join me for more reading. 📖📖
 
 ---
 
