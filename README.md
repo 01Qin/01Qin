@@ -30,6 +30,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=01Qin&icon=0&color=10)](https://visitcount.itsvg.in)
 
+---
+
+<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/170348560?shelf=read" title="Quinn's book recommendations, liked quotes, book clubs, book lists (read shelf)", rel="nofollow"><img border="0" alt="Quinn's book recommendations, liked quotes, book clubs, book lists (read shelf)" src="https://s.gr-assets.com/images/badge/badge1.jpg"></a>
 
 ---
 
