@@ -28,7 +28,7 @@
 
 ---
 
-Join me for more reading. 📖📖
+Join me for more reading. 📖📚
 
 ---
 
