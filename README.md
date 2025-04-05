@@ -33,7 +33,7 @@ Join me for more reading. 📖📚
 ---
 
 
-<div id="gr_challenge_11627" style="border: 2px solid #d8d8d8; border-radius:10px; padding: 0px 7px 0px 7px; max-width:23px; min-height: 10px">
+<div id="gr_challenge_11627" style="border: 2px solid #d8d8d8; border-radius:7px; padding: 0px 5px 0px 5px; max-width:15px; min-height: 7px">
   <div id="gr_challenge_progress_body_11627" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
     <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
       <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge">2025 Reading Challenge</a>
