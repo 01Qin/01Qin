@@ -28,21 +28,6 @@
 
 ---
 
-Join me for more reading. 📖📚
-
----
-
-
-<div id="gr_challenge_11627" style="border: 2px solid #d8d8d8; border-radius:7px; padding: 0px 5px 0px 5px; max-width:15px; min-height: 7px">
-  <div id="gr_challenge_progress_body_11627" style="font-size: 12px; font-family: georgia,serif;line-height: 18px">
-    <h3 style="margin: 4px 0 10px; font-weight: normal; text-align: center">
-      <a style="text-decoration: none; font-family:georgia,serif;font-style:italic; font-size: 1.1em" rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge">2025 Reading Challenge</a>
-    </h3>
-        <div class="challengePic">
-          <a rel="nofollow" href="https://www.goodreads.com/challenges/11627-2025-reading-challenge"><img alt="2025 Reading Challenge" style="float:left; margin-right: 1px; border: 0 none" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353048590i/6334.jpg" /></a>
-        </div>
-      
-</div>
 
 
 ---
