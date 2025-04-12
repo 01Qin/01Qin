@@ -29,20 +29,32 @@
 
 <details open>
 <summary>Top Repositories</summary>
+  <table>
+  <tr>
+    <td>
 <p align="center">
     <a href="https://github.com/01Qin/Python-assignments">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Python-assignments&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" />
     </a>
+   </td>
+    <td>
     <a href="https://github.com/01Qin/Html">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Html&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" />
     </a>
+       </td>
+    <td>
     <a href="https://github.com/i01Qin/Pythonlab">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Pythonlab&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" />
     </a>
+       </td>
+    <td>
     <a href="https://github.com/01Qin/C-project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=C-project&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" />
     </a>
 </p>
+        </td>
+  </tr>
+</table>
 </details>
 
 
@@ -50,10 +62,10 @@
 
 ---
 <details open>
-<p align="center">
-<a href="https://github-contributor-stats.vercel.app/api?username=01Qin&limit=5&theme=buefy&combine_all_yearly_contributions=true">
-   </a>
-</p>
+  <p align="center">
+    <a href="https://github-contributor-stats.vercel.app/api?username=01Qin&limit=5&theme=buefy&combine_all_yearly_contributions=true">
+    </a>
+  </p>
 </details>
 ---
 
