@@ -49,12 +49,12 @@
 
 
 ---
-
+<details open>
 <p align="center">
 <a href="https://github-contributor-stats.vercel.app/api?username=01Qin&limit=5&theme=buefy&combine_all_yearly_contributions=true">
    </a>
 </p>
-
+</details>
 ---
 
 
