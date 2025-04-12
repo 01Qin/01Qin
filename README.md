@@ -8,11 +8,11 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact) ![](https://nirzak-streak-stats.vercel.app/?user=01Qin&theme=buefy&hide_border=true)<br/>
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=01Qin&theme=buefy&hide_border=true)<br/>
+
 
 ---
 
