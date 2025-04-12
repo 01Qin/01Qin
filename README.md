@@ -30,17 +30,17 @@
 <details open>
 <summary>Top Repositories</summary>
 <p align="center">
-    <a href="https://github.com/01Qin/ChatGPT-Recipe_Studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=ChatGPT-Recipe_Studio&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/01Qin/Data-Analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Data-Analytics&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
-    <a href="https://github.com/01Qin/GitSwift">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=GitSwift&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/01Qin/HeartRateDetector">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=HeartRateDetector&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
-    <a href="https://github.com/i01Qin/Smart_Text_Expander">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Smart_Text_Expander&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/i01Qin/Pythonlab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Pythonlab&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
-    <a href="https://github.com/01Qin/Nexus_Ai_Streaming_Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=Nexus_Ai_Streaming_Platform&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/01Qin/C-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=01Qin&repo=C-project&theme=buefy&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
     </a>
 </p>
 </details>
