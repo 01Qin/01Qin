@@ -7,8 +7,20 @@
 
 
 ---
+<table>
+  <tr>
+    <td>
+      <img src="https://wakatime.com/share/@eff3b53b-fa83-46cd-916a-0ee2875d31b6/2e1584da-77a0-41af-96db-d145a22d6617.svg" width="500px" alt="Wakatime Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=01Qin&show_icons=true&theme=buefy" width="500px" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&layout=compact&theme=buefy" width="500px" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  | ![](https://nirzak-streak-stats.vercel.app/?user=01Qin&theme=buefy&hide_border=true)<br/>
 
 ---
 
