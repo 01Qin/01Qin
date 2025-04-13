@@ -62,7 +62,7 @@
 <details open>
 <summary>GitHub Stats</summary>
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01Qin&show_icons=true&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=ffffff&bg_color=FFFAF0FF" alt="01Qin's GitHub stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01Qin&show_icons=true&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" alt="01Qin's GitHub stats" />
 </p>
 
 <p align="center">
