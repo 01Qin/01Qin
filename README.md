@@ -58,10 +58,21 @@
 
 ---
 <details open>
-  <a align="center">
-    <a href="https://github-contributor-stats.vercel.app/api?username=01Qin&limit=5&theme=buefy&combine_all_yearly_contributions=true">
-    </a>
-  </a>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01Qin&show_icons=true&theme=dark&title_color=FF1493&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="01Qin's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=01Qin&theme=buefy&ring=C2FFC7&fire=CB9DF0&currStreakLabel=FF1493" alt="01Qin's streak"/>
+</p>
+
+
+
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 </details>
 ---
 
