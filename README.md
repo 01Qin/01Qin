@@ -18,7 +18,7 @@
       <img src="https://wakatime.com/share/@eff3b53b-fa83-46cd-916a-0ee2875d31b6/2e1584da-77a0-41af-96db-d145a22d6617.svg" width="500px" alt="Wakatime Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&layout=compact&theme=buefy&title_color=FF1493" width="500px" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&layout=compact&theme=buefy&title_color=FF1493&bg_color=FFFAF0FF" width="500px" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=01Qin&theme=buefy&ring=CB9DF0&fire=CB9DF0&currStreakLabel=FF1493&bg_color=FFFAF0FF" alt="01Qin's streak"/>
+    <img src="https://streak-stats.demolab.com?user=01Qin&theme=buefy&ring=CB9DF0&fire=CB9DF0&currStreakLabel=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" alt="01Qin's streak"/>
 </p>
 
 </details>
