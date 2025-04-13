@@ -1,7 +1,11 @@
 
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Quinn, currently in my first year studying IT.</h1>
----
+
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
@@ -64,12 +68,6 @@
     <img src="https://streak-stats.demolab.com?user=01Qin&theme=buefy&ring=696969&fire=CB9DF0&currStreakLabel=FF1493" alt="01Qin's streak"/>
 </p>
 
-
-
-<h3 align="center">Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/01Qin/01Qin/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 </details>
 ---
 
