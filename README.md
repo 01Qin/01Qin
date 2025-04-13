@@ -8,7 +8,7 @@
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/01Qin/01Qin/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
