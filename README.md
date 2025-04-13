@@ -66,11 +66,11 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=01Qin&theme=buefy&ring=CB9DF0&fire=CB9DF0&currStreakLabel=FF1493&bg_color=FFFAF0FF" alt="01Qin's streak"/>
+    <img src="https://streak-stats.demolab.com?user=01Qin&theme=buefy&ring=CB9DF0&fire=CB9DF0&currStreakLabel=FF1493&totalcontributionsLabel=FF1493&bg_color=FFFAF0FF" alt="01Qin's streak"/>
 </p>
 
 </details>
----
+
 
 
 
