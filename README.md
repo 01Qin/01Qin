@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=I'm&Quinn,&currently&in&my&first&year&studying&IT.)
-
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Quinn, currently in my first year studying IT.</h1>
+![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=E3A6AE&text=Hi,%20I'm%20Quinn-nl-currently%20in%20my%20first%20year%20studying%20IT.&fontSize=50&animation=fadeIn)
 
 
 
