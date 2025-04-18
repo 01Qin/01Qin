@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm Quinn&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?text=I'm&Quinn,&currently&in&my&first&year&studying&IT.)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Quinn, currently in my first year studying IT.</h1>
 
