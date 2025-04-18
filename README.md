@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=E3A6AE&text=Hi,%20I'm%20Quinn-nl-currently%20in%20my%20first%20year%20studying%20IT.&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&height=300&color=FFFAF0FF&text=Hi,%20I'm%20Quinn-nl-currently%20in%20my%20first%20year%20studying%20IT.&fontAlign=53&fontAlignY=34&fontSize=47&fontColor=FF1493&animation=fadeIn)
 
 
 
