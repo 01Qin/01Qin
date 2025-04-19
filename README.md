@@ -10,7 +10,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://wakatime.com/share/@eff3b53b-fa83-46cd-916a-0ee2875d31b6/2e1584da-77a0-41af-96db-d145a22d6617.svg" width="500px" alt="Wakatime Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=01Qin&theme=buefy&background=FFFAF0FF&fire=FF1493&ring=FF1489&currStreakLabel=FF1493&sideNums=000000&dates=000000&sideLabels=000000" alt="Streak Stats" width="500px" />
+</div>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Qin&layout=compact&theme=buefy&title_color=FF1493&bg_color=FFFAF0FF" width="500px" alt="Top Languages"/>
@@ -59,7 +60,6 @@
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01Qin&show_icons=true&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" alt="01Qin's GitHub stats" />
 </p>
-
 
 
 </details>
