@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=01Qin&theme=buefy&background=FFFAF0FF&fire=FF1493&ring=FF1489&currStreakLabel=FF1493&sideNums=000000&dates=000000&sideLabels=000000" alt="Streak Stats" width="500px" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=01Qin&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=215&background=45%2CFFFAF0%2CFFFAF0&currStreakNum=000000&stroke=FF1493&sideNums=000000&ring=FF1493&sideLabels=000000&fire=FF1493&currStreakLabel=FF1493" alt="GitHub Streak" /></a>
 </div>
     </td>
     <td>
