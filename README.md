@@ -54,9 +54,9 @@
                                             <a title="Never Let Me Go" rel="nofollow" href="https://www.goodreads.com/review/show/6072329760?utm_medium=api&amp;utm_source=custom_widget"><img alt="Never Let Me Go" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg" /></a>
                                         </div>
                                         <div class="gr_custom_rating_1747123301">
-                                            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
-                                        </div>
-                                        <div class="gr_custom_title_1747123301">
+                                            
+  </div>
+                          <div class="gr_custom_title_1747123301">
                                             <a rel="nofollow" href="https://www.goodreads.com/review/show/6072329760?utm_medium=api&amp;utm_source=custom_widget">Never Let Me Go</a>
                                         </div>
                                         <div class="gr_custom_author_1747123301">
