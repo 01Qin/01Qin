@@ -23,14 +23,59 @@
 
 ---
 
-<details open>
-<summary>GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01Qin&show_icons=true&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" alt="01Qin's GitHub stats" />
-</p>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
 
-</details>
+  <div class="container mx-auto">
+        <details open>
+            <summary>GitHub Stats & Currently Reading</summary>
+
+  <table>
+                <tr>
+                    <td>
+                        <p align="center">
+                            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=01Qin&show_icons=true&theme=buefy&title_color=FF1493&icon_color=CB9DF0&text_color=000000&bg_color=FFFAF0FF" alt="01Qin's GitHub stats" />
+                        </p>
+                    </td>
+                    <td>
+                        <center>
+                            <div id="gr_custom_widget_1747123301">
+                                <div class="gr_custom_container_1747123301">
+                                    <h2 class="gr_custom_header_1747123301">
+                                        <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/170348560-quinn?shelf=currently-reading&amp;utm_medium=api&amp;utm_source=custom_widget">currently-reading</a>
+                                    </h2>
+                                    <div class="gr_custom_each_container_1747123301">
+                                        <div class="gr_custom_book_container_1747123301">
+                                            <a title="Never Let Me Go" rel="nofollow" href="https://www.goodreads.com/review/show/6072329760?utm_medium=api&amp;utm_source=custom_widget"><img alt="Never Let Me Go" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg" /></a>
+                                        </div>
+                                        <div class="gr_custom_rating_1747123301">
+                                            <span class=" staticStars notranslate"><img src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /><img alt="" src="https://s.gr-assets.com/images/layout/gr_red_star_inactive.png" /></span>
+                                        </div>
+                                        <div class="gr_custom_title_1747123301">
+                                            <a rel="nofollow" href="https://www.goodreads.com/review/show/6072329760?utm_medium=api&amp;utm_source=custom_widget">Never Let Me Go</a>
+                                        </div>
+                                        <div class="gr_custom_author_1747123301">
+                                            by <a rel="nofollow" href="https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro">Kazuo Ishiguro</a>
+                                        </div>
+                                        <br style="clear: both"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </center>
+                    </td>
+                </tr>
+            </table>
+        </details>
+    </div>
+
+</body>
+</html>
+
 
 
 
