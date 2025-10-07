@@ -21,7 +21,7 @@ Electron / Node.js / Qt / HTML / CSS
 ---
 
 ### Contact
-📫 <a href="mailto:sisukasqin[at]outlook[dot]com">outlook</a>
+📫 <a href="mailto:quinndev014[at]gmail[dot]com">Gmail</a>
 
 
 ---
