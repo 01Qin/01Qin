@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Quinn.
 
-**Embedded IoT student | GUI & Cloud Enthusiast**
+**Embedded IoT Devices student | GUI & Cloud Enthusiast**
 
 I build connected systems — from device firmware to desktop dashboards.  
 Focused on merging **hardware**, **software**, and **clean design**.
