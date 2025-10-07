@@ -23,7 +23,9 @@ Electron / Node.js / Qt / HTML / CSS
 ### Contact
 sisukasqin@outlook.com
 
+---
 
+> “Practice makes perfect.”
 
 
 
