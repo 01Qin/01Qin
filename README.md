@@ -1,3 +1,29 @@
+# 👋 Hi, I’m Quinn.
+
+**Embedded IoT student | GUI & Cloud Enthusiast**
+
+I build connected systems — from device firmware to desktop dashboards.  
+Focused on merging **hardware**, **software**, and **clean design**.
+
+---
+
+### Tech Stack
+C / C++ / Python / JavaScript  
+Electron / Node.js / Qt / HTML / CSS  
+
+---
+
+### Current Focus
+- Developing desktop apps for IoT data visualization (Electron)  
+- Strengthening embedded C/C++ foundations  
+- Exploring cloud-side IoT integration (Node.js)
+
+---
+
+### Contact
+sisukasqin@outlook.com
+
+
 
 
 
